@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oi! Eu sou a Ana Paula Lesniovski, desenvolvedora iOS 
 
-<!--
-**anaplesniovski/anaplesniovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER, enquanto também atuo como Desenvolvedora Mobile iOS.
 
-Here are some ideas to get you started:
+### Minhas habilidades e experiência incluem:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento iOS com Swift (UIKit).
+- Arquitetura MVVM e MVVM-C.
+- Implementação de padrões de design, como Coordinator e Delegate.
+- Utilização de Protocolos.
+- Gerenciamento de dependências com CocoaPods.
+- Uso dO Git para controle de versão e colaboração.
+- Metodologias ágeis como Scrum.
+- Automação de testes (Appium e Robot Framework).
+
+ ### Contato 
+<a href="https://www.linkedin.com/in/anapaulalesniovskidossantos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
