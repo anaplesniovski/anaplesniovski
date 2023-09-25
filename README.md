@@ -10,7 +10,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Univ
 - Implementação de padrões de design, como Coordinator e Delegate.
 - Utilização de Protocolos.
 - Gerenciamento de dependências com CocoaPods.
-- Uso dO Git para controle de versão e colaboração.
+- Uso do Git para controle de versão e colaboração.
 - Metodologias ágeis como Scrum.
 - Automação de testes (Appium e Robot Framework).
 
