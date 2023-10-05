@@ -6,7 +6,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Univ
 ### Minhas habilidades e experiência incluem:
 
 - Desenvolvimento iOS com Swift (UIKit).
-- Arquitetura MVVM e MVVM-C.
+- Arquitetura MVVM.
 - Implementação de padrões de design, como Coordinator e Delegate.
 - Utilização de Protocolos.
 - Gerenciamento de dependências com CocoaPods.
